@@ -5,4 +5,4 @@
 A link to the Juce website https://juce.com/
 
 This is a video I made showing my project and the app running:
-https://www.loom.com/share/9a7a1c0ff00e40bbb3b615df8310a4ff?sid=87a1b59d-018c-4801-a46a-01f967652a5c
+https://www.loom.com/share/9a7a1c0ff00e40bbb3b615df8310a4ff?sid=2b2e9897-8b20-4170-9cc8-954b1ea4a2ce
